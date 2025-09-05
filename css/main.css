@@ -1,0 +1,61 @@
+.our-products{
+    margin-top:50px;
+    margin-left:130px;
+}
+.product{
+    float:left;
+    width: 21%;
+    padding:6px 10px;
+    margin:5px 10px;
+    border-radius: 6px;
+    border: gainsboro solid 1px;
+}
+
+img{
+    width:90%;
+    padding: 5px 10px 0px 19px;
+}
+
+.text{
+    color:gray;
+    font-size:20px; 
+}
+
+.new-price{
+    float: left;
+    font-size:22px;
+    color: green;
+    font-weight: 700;
+    font-family: Glory;
+    margin-right: 5px;
+    margin-bottom: 3px;;
+}
+
+.old-price{
+    float: left;
+    font-size: 18px;
+    text-decoration: line-through;
+    color: red;
+    font-weight: 700;
+    font-family: Glory;
+    margin-bottom: 3px;
+    margin-top:3px;
+
+}
+
+.clearfix{
+    clear:both;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    padding: 10px 60px;
+    border:hidden;
+    font-size: 20px;
+}
+
+.heart{
+    border: blue solid 1px;
+    padding: 21px 10px 19px 10px;
+}
